@@ -71,9 +71,9 @@ Sou apaixonada por desenvolvimento frontend e venho atuando na área desde 2017,
 
 ## 🎓 Formação Acadêmica
 
-- Pós-graduação em Frontend Engineering — FIAP *(2024 - 2025)*  
-- Bacharelado em Sistemas de Informação — UEA  
-- Curso de Inglês — IFAM
+- ⌛ Pós-graduação em Frontend Engineering — FIAP *(2024 - 2025)*  
+- ☑️ Bacharelado em Sistemas de Informação — UEA  
+- ☑️Curso de Inglês — IFAM
 
 ---
 
