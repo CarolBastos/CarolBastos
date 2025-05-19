@@ -26,7 +26,7 @@
 </div>
 
 
-## 🧩 Sobre mim
+## 🙋‍♀️ Sobre mim
 
 Sou apaixonada por desenvolvimento frontend e venho atuando na área desde 2017, com sólida experiência em projetos de grande escala e foco em performance, arquitetura e acessibilidade. Tenho vivência com diversos frameworks modernos e metodologia ágil, além de contribuir para integrações completas de sistemas.
 
