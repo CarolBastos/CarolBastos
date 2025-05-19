@@ -38,7 +38,7 @@ Sou apaixonada por desenvolvimento frontend e venho atuando na área desde 2017,
 
 <p>
   <img height="40" src="./imgs/html.png" alt="HTML5" />
-  <img height="40" src="./imgs/css3-original.svg" alt="CSS3" />
+  <img height="40" src="https://github.com/CarolBastos/CarolBastos/blob/6c5cd96a9385f4019c9b5f54d3c9239b2e098b83/imgs/css3-original.svg" alt="CSS3" />
   <img height="40" src="./imgs/js.svg" alt="JavaScript" />
   <img height="40" src="./imgs/typescript-original.png" alt="TypeScript" />
   <img height="40" src="./imgs/angular.png" alt="Angular" />
