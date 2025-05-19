@@ -54,5 +54,5 @@ Veja meus repositórios fixados para explorar os projetos que venho desenvolvend
 ---
 
 📫 **Contato:**  
-Você pode entrar em contato comigo através do [LinkedIn](https://www.linkedin.com/in/carol-bastos) ou pelo e-mail bastoscarol292@gmail.com.
+Você pode entrar em contato comigo através do [LinkedIn](https://www.linkedin.com/in/carol-bastos).
 
