@@ -4,21 +4,21 @@
 📍 Manaus, Amazonas, Brasil  
 📆 Atuando com desenvolvimento Web desde 2017  
 <div> 
-  <a href="https://www.linkedin.com/in/carol-bastos" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/carol-bastos" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   <a href="mailto:bastoscarol292@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bastoscarol292@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bastoscarol292@gmail.com">
   </a>
-  <a href="https://carolbastos.dev.br" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank">
+  <a href="https://carolbastos.dev.br" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white">
   </a> 
 </div>
 
 ---
 <!--github stats-->
 <div style="display: inline">
-   <a href="https://github.com/AecioJose">
+   <a href="https://github.com/CarolBastos">
    <div style="display: inline_block">
       <img height="175em" src="https://github-readme-stats.vercel.app/api?username=CarolBastos&show_icons=true&theme=radical&layout=compact"/>
       <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolBastos&layout=compact&theme=radical"/>
