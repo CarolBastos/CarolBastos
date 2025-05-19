@@ -3,17 +3,6 @@
 🎯 Desenvolvedora Frontend Sênior <br>
 📍 Manaus, Amazonas, Brasil  
 📆 Atuando com desenvolvimento Web desde 2017  
-
----
-<!--github stats-->
-<div style="display: inline">
-   <a href="https://github.com/AecioJose">
-   <div style="display: inline_block">
-      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=CarolBastos&show_icons=true&theme=radical&layout=compact"/>
-      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolBastos&layout=compact&theme=radical"/>
-   </div>
-</div>
-
 <div> 
   <a href="https://www.linkedin.com/in/carol-bastos" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -25,6 +14,17 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank">
   </a> 
 </div>
+
+---
+<!--github stats-->
+<div style="display: inline">
+   <a href="https://github.com/AecioJose">
+   <div style="display: inline_block">
+      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=CarolBastos&show_icons=true&theme=radical&layout=compact"/>
+      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolBastos&layout=compact&theme=radical"/>
+   </div>
+</div>
+
 
 ## 🧩 Sobre mim
 
