@@ -1,6 +1,6 @@
 # 👩‍💻 Carol Bastos
 
-🎯 Desenvolvedora Frontend Sênior
+🎯 Desenvolvedora Frontend Sênior <br>
 📍 Manaus, Amazonas, Brasil  
 📆 Atuando com desenvolvimento Web desde 2017  
 
