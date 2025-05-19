@@ -15,14 +15,15 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank">
   </a> 
 </div>
+
+![Carol Bastos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolBastos&show_icons=true&theme=radical&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolBastos&theme=radical&layout=compact)](https://github.com/CarolBastos/github-readme-stats)
+
 ---
 
 ## 🧩 Sobre mim
 
 Sou apaixonada por desenvolvimento frontend e venho atuando na área desde 2017, com sólida experiência em projetos de grande escala e foco em performance, arquitetura e acessibilidade. Tenho vivência com diversos frameworks modernos e metodologia ágil, além de contribuir para integrações completas de sistemas.
-
-![Carol Bastos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolBastos&show_icons=true&theme=radical&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolBastos&theme=radical&layout=compact)](https://github.com/CarolBastos/github-readme-stats)
 
 ---
 
