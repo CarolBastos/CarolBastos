@@ -37,10 +37,10 @@ Sou apaixonada por desenvolvimento frontend e venho atuando na área desde 2017,
 ### 🖥️ Frontend
 
 <p>
-  <img height="40" src="imgs/html.png" alt="HTML5" />
-  <img height="40" src="imgs/css3-original.svg" alt="CSS3" />
-  <img height="40" src="imgs/js.svg" alt="JavaScript" />
-  <img height="40" src="imgs/typescript-original.png" alt="TypeScript" />
+  <img height="40" src="./imgs/html.png" alt="HTML5" />
+  <img height="40" src="./imgs/css3-original.svg" alt="CSS3" />
+  <img height="40" src="./imgs/js.svg" alt="JavaScript" />
+  <img height="40" src="./imgs/typescript-original.png" alt="TypeScript" />
   <img height="40" src="imgs/angular.png" alt="Angular" />
   <img height="40" src="imgs/react.png" alt="React" />
   <img height="40" src="imgs/vuejs-original.svg" alt="Vue.js" />
