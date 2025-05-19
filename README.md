@@ -5,9 +5,14 @@
 📆 Atuando com desenvolvimento Web desde 2017  
 
 ---
-![Carol Bastos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolBastos&show_icons=true&theme=radical&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolBastos&theme=radical&layout=compact)](https://github.com/CarolBastos/github-readme-stats)
-
+<!--github stats-->
+<div style="display: inline">
+   <a href="https://github.com/AecioJose">
+   <div style="display: inline_block">
+      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=CarolBastos&show_icons=true&theme=radical&layout=compact"/>
+      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolBastos&layout=compact&theme=radical"/>
+   </div>
+</div>
 
 <div> 
   <a href="https://www.linkedin.com/in/carol-bastos" target="_blank">
