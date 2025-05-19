@@ -52,7 +52,7 @@ Jest, Enzyme
 Git, GitHub, GitLab, Bitbucket
 
 🚀 CI/CD:
-Azure DevOps, Bamboo
+Azure DevOps, Bamboo, GitHub Actions
 
 🛠️ Outras Ferramentas:
 Firebase, Flutter, Figma
