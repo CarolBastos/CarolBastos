@@ -17,6 +17,9 @@
 </div>
 
 ---
+![Carol Bastos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolBastos&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolBastos)](https://github.com/CarolBastos/github-readme-stats)
+---
 
 ## 🧩 Sobre mim
 
@@ -82,6 +85,8 @@ Sou apaixonada por desenvolvimento frontend e venho atuando na área desde 2017,
 Veja meus repositórios fixados para explorar os projetos que venho desenvolvendo com foco em usabilidade, performance e arquitetura moderna.
 
 ---
+
+
 
 📫 **Contato:**  
 Você pode entrar em contato comigo através do [LinkedIn](https://www.linkedin.com/in/carol-bastos).
