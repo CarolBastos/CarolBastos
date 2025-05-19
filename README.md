@@ -37,16 +37,19 @@ Sou apaixonada por desenvolvimento frontend e venho atuando na área desde 2017,
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" alt="LESS" />
 </p>
 
-### ⚙️ DevOps & Ferramentas
+### ⚙️ Outras ferramentas e tecnologias
 
 <p>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure DevOps" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bamboo (representado por Bash)" />
+  <img height="40" src="https://www.incredibuild.com/wp-content/uploads/2021/09/Atlassian-Bamboo01.png" alt="Bamboo" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="Gulp" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" alt="Grunt" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" />
