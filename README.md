@@ -17,8 +17,8 @@
 </div>
 
 ---
-![Carol Bastos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolBastos&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolBastos)](https://github.com/CarolBastos/github-readme-stats)
+![Carol Bastos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolBastos&show_icons=true&theme=radical&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolBastos&theme=radical&layout=compact)](https://github.com/CarolBastos/github-readme-stats)
 ---
 
 ## 🧩 Sobre mim
