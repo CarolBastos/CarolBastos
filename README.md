@@ -3,11 +3,11 @@
 🎯 Desenvolvedora Frontend Sênior
 📍 Manaus, Amazonas, Brasil  
 📆 Atuando com desenvolvimento Web desde 2017  
-🌐 [carolbastos.dev.br](https://carolbastos.dev.br) 
 
 <div> 
-  <a href = "mailto:bastoscarol292@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bastoscarol292@gmail.com" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carol-bastos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:bastoscarol292@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bastoscarol292@gmail.com" target="_blank"></a>
+  <a href="https://carolbastos.dev.br" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
