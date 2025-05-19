@@ -41,15 +41,15 @@ Sou apaixonada por desenvolvimento frontend e venho atuando na área desde 2017,
   <img height="40" src="./imgs/css3-original.svg" alt="CSS3" />
   <img height="40" src="./imgs/js.svg" alt="JavaScript" />
   <img height="40" src="./imgs/typescript-original.png" alt="TypeScript" />
-  <img height="40" src="imgs/angular.png" alt="Angular" />
-  <img height="40" src="imgs/react.png" alt="React" />
-  <img height="40" src="imgs/vuejs-original.svg" alt="Vue.js" />
-  <img height="40" src="imgs/next.png" alt="Next.js" />
-  <img height="40" src="imgs/bootstrap2.png" alt="Bootstrap" />
-  <img height="40" src="imgs/tailwind.svg" alt="Tailwind CSS" />
-  <img height="40" src="imgs/sass3.png" alt="SASS" />
-  <img height="40" src="imgs/less.svg" alt="LESS" />
-  <img height="40" src="imgs/jest.png" alt="Jest" /> 
+  <img height="40" src="./imgs/angular.png" alt="Angular" />
+  <img height="40" src="./imgs/react.png" alt="React" />
+  <img height="40" src="./imgs/vuejs-original.svg" alt="Vue.js" />
+  <img height="40" src="./imgs/next.png" alt="Next.js" />
+  <img height="40" src="./imgs/bootstrap2.png" alt="Bootstrap" />
+  <img height="40" src="./imgs/tailwind.svg" alt="Tailwind CSS" />
+  <img height="40" src="./imgs/sass3.png" alt="SASS" />
+  <img height="40" src="./imgs/less.svg" alt="LESS" />
+  <img height="40" src="./imgs/jest.png" alt="Jest" /> 
 </p>
 
 ### ⚙️ Outras ferramentas e tecnologias
