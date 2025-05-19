@@ -42,7 +42,7 @@ Sou apaixonada por desenvolvimento frontend e venho atuando na área desde 2017,
   <img height="40" src="./imgs/js.svg" alt="JavaScript" />
   <img height="40" src="./imgs/typescript-original.png" alt="TypeScript" />
   <img height="40" src="./imgs/angular.png" alt="Angular" />
-  <img height="40" src="./imgs/react.png" alt="React" />
+  <img height="40" src="./imgs/react.svg" alt="React" />
   <img height="40" src="./imgs/vuejs-original.svg" alt="Vue.js" />
   <img height="40" src="./imgs/next.png" alt="Next.js" />
   <img height="40" src="./imgs/bootstrap2.png" alt="Bootstrap" />
@@ -54,15 +54,15 @@ Sou apaixonada por desenvolvimento frontend e venho atuando na área desde 2017,
 
 ### ⚙️ Outras ferramentas e tecnologias
 <p> 
-  <img height="40" src="imgs/git.svg" alt="Git" /> 
-  <img height="40" src="imgs/github-original.svg" alt="GitHub" /> 
-  <img height="40" src="imgs/gitlab.svg" alt="GitLab" /> 
-  <img height="40" src="imgs/bitbucket.svg" alt="Bitbucket" /> 
-  <img height="40" src="imgs/azure.svg" alt="Azure DevOps" /> 
-  <img height="40" src="imgs/bamboo.png" alt="Bamboo" />
-  <img height="40" src="imgs/firebase.svg" alt="Firebase" /> 
-  <img height="40" src="imgs/flutter.svg" alt="Flutter" /> 
-  <img height="40" src="imgs/figma.svg" alt="Figma" />
+  <img height="40" src="./imgs/git.svg" alt="Git" /> 
+  <img height="40" src="./imgs/github-original.svg" alt="GitHub" /> 
+  <img height="40" src="./imgs/gitlab.svg" alt="GitLab" /> 
+  <img height="40" src="./imgs/bitbucket.svg" alt="Bitbucket" /> 
+  <img height="40" src="./imgs/azure.svg" alt="Azure DevOps" /> 
+  <img height="40" src="./imgs/bamboo.png" alt="Bamboo" />
+  <img height="40" src="./imgs/firebase.svg" alt="Firebase" /> 
+  <img height="40" src="./imgs/flutter.svg" alt="Flutter" /> 
+  <img height="40" src="./imgs/figma.svg" alt="Figma" />
 </p>
 
 ---
