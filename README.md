@@ -47,7 +47,7 @@ Sou apaixonada por desenvolvimento frontend e venho atuando na área desde 2017,
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure DevOps" /> 
   <img height="40" src="https://www.incredibuild.com/wp-content/uploads/2021/09/Atlassian-Bamboo01.png" alt="Bamboo" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" /> 
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" /> 
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" /> 
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" /> 
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" />
 </p>
