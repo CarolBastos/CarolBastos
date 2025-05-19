@@ -89,9 +89,11 @@ Sou apaixonada por desenvolvimento frontend e venho atuando na área desde 2017,
 
 Veja meus repositórios fixados para explorar os projetos que venho desenvolvendo com foco em usabilidade, performance e arquitetura moderna.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarolBastos/CarolBastos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarolBastos/CarolBastos/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarolBastos/CarolBastos/output/github-contribution-grid-snake.svg">
-</picture>
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarolBastos/CarolBastos/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarolBastos/CarolBastos/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarolBastos/CarolBastos/output/github-contribution-grid-snake.svg">
+  </picture>
+<div>
 
