@@ -3,7 +3,7 @@
 🎯 Desenvolvedora Frontend Sênior
 📍 Manaus, Amazonas, Brasil  
 📆 Atuando com desenvolvimento Web desde 2017  
-🌐 [carolbastos.dev.br](https://carolbastos.dev.br) | 💼 [LinkedIn](https://www.linkedin.com/in/carol-bastos) | 📫 bastoscarol292@gmail.com
+🌐 [carolbastos.dev.br](https://carolbastos.dev.br) | 💼 [LinkedIn](https://www.linkedin.com/in/carol-bastos) 
 
 ---
 
