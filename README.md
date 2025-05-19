@@ -84,5 +84,3 @@ Sou apaixonada por desenvolvimento frontend e venho atuando na área desde 2017,
 
 Veja meus repositórios fixados para explorar os projetos que venho desenvolvendo com foco em usabilidade, performance e arquitetura moderna.
 
----
-
